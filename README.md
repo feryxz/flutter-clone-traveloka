@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # traveloka
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-clone-traveloka
+Cloning APPS Traveloka With Flutter
+>>>>>>> f044f216e04dcd364d4f0874b82ef6e928839931
